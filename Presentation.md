@@ -12,17 +12,25 @@ The crescent is also supposed to be a symbol in Islam as they follow the moon ca
 
 ##Elments Rotated And Elements Copied
 
+![Rotation](https://github.com/Mhossain360/FLAG-3/blob/master/Mayur/Turkey-Support-(Flag).png "Rotation")
+
 In this variation of the flag I had editted the star and crescent to be a representation of a parachute and star. I was trying to show Turkey to be supportive even if someone is falling fast. I have also added two stars in the back to aid support.
 
 ##Flag Colour Changed
+
+![Colour](https://github.com/Mhossain360/FLAG-3/blob/master/Mayur/B%26W.png "Colour")
 
 I have used black and white becuase I wanted to represent day and night. In addition, they both have great properties I would like to represent, white is a symbol of innocence, honesty and purity. Black is associated with power and strength. HOWEVER, a lot of people associate black with death.
 
 ##Eclipse
 
+![Eclipse](https://github.com/Mhossain360/FLAG-3/blob/master/Mayur/Eclipse.png "Eclipse")
+
 In this variation, I wanted to keep both elements and wanted to show an eclipse. The outcome did not look very appealing however it is a learning kerb. I chose to use a green and blue to represent sky and land. Blue is also a representation of calmness, trust and loyalty. Green is also good for stability and safety, peace and harmony.
 
 ##Enlarge the Crescent
+
+![Enlarge](https://github.com/Mhossain360/FLAG-3/blob/master/Mayur/Crescent-enlarged.png "Enlarge")
 
 Keeping the red as it is a big part of Turkey, based on the primary beliefs of the country. I enlarged the crescent to emphasise the point that it is a bigger part in Islam. 
 
