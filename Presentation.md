@@ -59,7 +59,7 @@ I then thought to add a pencil to illustrate the flag being drawn to represent d
 #Ricardo
 ![background](https://github.com/Mhossain360/FLAG-3/blob/master/Background.png "background")
 ![usa](https://github.com/Mhossain360/FLAG-3/blob/master/usa.png "usa")
-![ussr](https://github.com/Mhossain360/FLAG-3/blob/master/ussr.png "ussr")
+![ussr](https://github.com/Mhossain360/FLAG-3/blob/master/ussr_flag_1924_by_shitalloverhumanity-d83etht.png "ussr")
 ![north korea](https://github.com/Mhossain360/FLAG-3/blob/master/north korea.png "north korea")
 
 
