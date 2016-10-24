@@ -57,9 +57,16 @@ I then thought to add a pencil to illustrate the flag being drawn to represent d
 ![Good](https://github.com/Mhossain360/FLAG-3/blob/master/Mayur/Good-Flag.png "Good")
 
 #Ricardo
+The first flag I chose what the united arab emirates flag because I didnt even know that they had one and to make it more memeorable i added a silhoette of the burj khalifa because thats what i think repersents it the best way in my opinon.
 ![background](https://github.com/Mhossain360/FLAG-3/blob/master/Background.png "background")
+
+The second flag is the USA and I chose to make it black and white because I feel like there is a race war happening at the moment and the McDonalds logo is because I think that its very unhealthy for a country that can't get along with each other.
 ![usa](https://github.com/Mhossain360/FLAG-3/blob/master/usa.png "usa")
+
+The USSR flag has a bottle of vodka replacing the star becasue thas the first think that comes to mind when I think of russia and I changed the colour of the flag to pink for no resean what so ever I just wanted to know what a pink flag looked like on a powerful country to disempower them and make it seem as though they are weak when really they have a lot of power.
 ![ussr](https://github.com/Mhossain360/FLAG-3/blob/master/ussr_flag_1924_by_shitalloverhumanity-d83etht.png "ussr")
+
+This north korea flag was inspired by all of the weaponry that they have because even though they are a small country they are very a powerful country and a missle is the perfect way to show that you are powerful.
 ![north korea](https://github.com/Mhossain360/FLAG-3/blob/master/north korea.png "north korea")
 
 
