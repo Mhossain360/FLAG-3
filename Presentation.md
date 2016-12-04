@@ -48,6 +48,10 @@ I used a light bulb as it generally means an idea.
 
 ![Bad](https://github.com/Mhossain360/FLAG-3/blob/master/Mayur/Terrible-Flag.png "Bad")
 
+Upon feedback the colour scheme was too dull so I brightened it up as if it were representing the mood. The colours are a different shade making it brighter and more visually appealing. I still kept the original colours based on the reasons previously mentioned. The light bulb is also the same concept based on the idea of an idea.
+
+![Fixed](https://github.com/Mhossain360/FLAG-3/blob/master/Mayur/Terrible-Flag-fixed.png "Fixed")
+
 I didnt like the flag too much so I thought of another idea.
 
 In this idea I used the same colours in a different way, ratehr than solid colours, I used a gradient which looked appealing incorporating all of the ideas in a simple way. I used a white background. I thought of adding the brain to be orange for the creativity.
